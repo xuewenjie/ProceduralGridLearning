@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MyMeshDeformerInput : MonoBehaviour
 {
+    //作用力
     public float force = 10f;
     public float forceOffset = 0.1f;
 
